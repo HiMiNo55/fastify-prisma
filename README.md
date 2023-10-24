@@ -1,1 +1,1 @@
-# fastify-ts
+# fastify-prisma
